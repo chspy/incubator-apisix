@@ -123,7 +123,7 @@ git clone https://github.com/apache/incubator-apisix-dashboard.git
 - Install dependencies and compile
 ```
 yarn install
-yarn run build: prod
+yarn run build:prod
 ```
 
 - Integration with APISIX
